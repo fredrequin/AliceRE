@@ -152,7 +152,7 @@
 | X | X | X | X |   | X | X |   | X |   | X |   |11100111|1CE|VBSTOP  |
 | X | X | X | X |   | X | X |   | X |   |   | X |11100110|1CC|VBSTRT  |
 | X | X | X | X |   | X | X |   |   | X | X |   |11100101|1CA|VSSTOP  |
-| X | X | X | X |   | X |   | X |   | X |   | X |11100000|1C0|HTOTAL  |
+| X | X | X | N |   | X |   | X |   | X |   | X |11110000|1E0|VSSTRT  |
 | X | X | X | X |   | X | X |   |   | X |   | X |11100100|1C8|VTOTAL  |
 | X | X | X | X | X |   | X |   | X |   |   | X |11101110|1DC|BEAMCON0|
 
